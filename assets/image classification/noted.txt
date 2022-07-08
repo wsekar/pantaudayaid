@@ -1,0 +1,5 @@
+folder dataset : Dataset PJU 
+folder upload : upload_pju 
+dataset : datasetpju.h5
+kode dataset : datasetpju.py 
+kode run program : testing.py
